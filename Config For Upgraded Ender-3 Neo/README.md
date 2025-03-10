@@ -7,4 +7,4 @@ Changes to the hardware includes:
 - Installed the Orbiter v2.5 extruder
 - Changed model cooling fan from a single 4010 blower fan to two 5015 fans 
 
-Link to the toolhead will be added later
+Link to the filament runout sensor: https://www.makeronline.com/en/model/Filament%20Runout%20Sensor%20With%20Micro%20Switch%20from%20Omron/159668.html
