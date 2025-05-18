@@ -1,5 +1,5 @@
-# Here are the Klipper configurations for a upgraded Ender-3 Neo
-The costs to upgrade is actually not high~
+# Here are the Klipper configurations for a upgraded Ender-3 Neo, using the NEO Stiffy Toolhead
+The costs to upgrade is actually pretty low~
 
 Changes to the hardware includes:
 - Switched the CR-Touch bed leveling probe to the rigth side of the toolhead
